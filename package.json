@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["intenet","network","heartbeat","monitor","connection","lan","wan","ping","multiple"],
   "author": "Slavik Meltser",
   "license": "ISC",
   "dependencies": {
